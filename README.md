@@ -112,17 +112,17 @@ Type Z hashslot is the connector convention where it will contain a main riser p
 
 Written by David Mikeska of Oconical. Everyone (as listed as 'OEM' below) is free to use this connection system for their system architecture as long they agree on the fallowing terms:
 
-1. If the OEM use this connection system, the Oconical logo shall be placed onto the main board and riser cards to identify convention standards.
+1. If the OEM use this connection system, the logo shall be placed onto the main board and riser cards to identify convention standards.
 2. If the OEM submit what connectors they used and the connector pin out description. 
-3. Underneath the Oconical logo, the OEM agrees to list the hashslot type used in the system.
+3. Underneath the logo, the OEM agrees to list the hashslot type used in the system.
 4. Underneath the hashslot type listed, the OEM agrees to state the OEM's Model Number and optionally,  serial number, manufacturing lot and date.
 
 
 Contents of this Github:
 
 
-Oconical_Logo folder:
-Oconical logo will be supplied in this github that will contain logo formats.
+logo folder:
+The logo will be supplied in this github that will contain logo formats.
 
 Connector_Types folder:
 This folder will contain the physical connectors suggested for use in the hashslot system by Oconical. 
